@@ -5,15 +5,23 @@ h1{
   color:white;
   text-align: center;
 }
-h2 {color:green;}
+h2 {color:green;
+  padding:12px;
+}
 border-style{background-color: grey;}
 div#title{background-color:#0e3369;}
 div#title{color:White;
   text-align: center;
+padding:5px;
 }
 div#section-1{background-color:white;}
 div#section-2{background-color:white;}
 div#section-3{background-color:white;}
+div#section-4{background-color:white;}
+div#section-5{background-color:white;}
+div#section-6{background-color:white;}
+div#section-7{background-color:white;}
+div#section-8{background-color:white;}
 p{margin: 5px;
   padding: 15px;
 }
@@ -24,7 +32,11 @@ div {
   div#section-1:hover{background-color:#ccd1d1;h2{text-decoration:underline;} cursor: pointer;}
    div#section-2:hover{background-color:#ccd1d1;h2{text-decoration:underline;}cursor: pointer;}
     div#section-3:hover{background-color:#ccd1d1;h2{text-decoration:underline;}cursor: pointer;}
-    
+    div#section-4:hover{background-color:#ccd1d1;h2{text-decoration:underline;}cursor: pointer;}
+    div#section-5:hover{background-color:#ccd1d1;h2{text-decoration:underline;}cursor: pointer;}
+    div#section-6:hover{background-color:#ccd1d1;h2{text-decoration:underline;}cursor: pointer;}
+    div#section-7:hover{background-color:#ccd1d1;h2{text-decoration:underline;}cursor: pointer;}
+    div#section-8:hover{background-color:#ccd1d1;h2{text-decoration:underline;}cursor: pointer;}
 footer{color:#FFFFFF;
 text-align:center;
 background-color:#0e3369;
